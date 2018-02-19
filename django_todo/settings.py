@@ -27,7 +27,7 @@ SECRET_KEY = '9(u-$3ju=9l(ql0u_(fko*sh%yjfwoh4#x*zdjdxlj$-t(i-^5'
 DEBUG = True
 
 ALLOWED_HOSTS = ['django-todo-sarahbarron.c9users.io',
-'sarah-barron-to-do-app.herokuapp.com']
+'sarahbarron-django-todo.herokuapp.com']
 
 
 # Application definition
