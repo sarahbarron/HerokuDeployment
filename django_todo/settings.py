@@ -27,8 +27,8 @@ SECRET_KEY = '9(u-$3ju=9l(ql0u_(fko*sh%yjfwoh4#x*zdjdxlj$-t(i-^5'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    os.environ.get(‘C9.HOSTNAME’),
-    os.environ.get(‘HOSTNAME’)
+    os.environ.get("C9_HOSTNAME") ,
+    os.environ.get("HOSTNAME") 
 ]
 
 
